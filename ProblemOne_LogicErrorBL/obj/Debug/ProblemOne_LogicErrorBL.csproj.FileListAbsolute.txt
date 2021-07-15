@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\bin\Debug\ProblemOne_LogicErrorBL.dll
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\bin\Debug\ProblemOne_LogicErrorBL.pdb
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\obj\Debug\ProblemOne_LogicErrorBL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\obj\Debug\ProblemOne_LogicErrorBL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\obj\Debug\ProblemOne_LogicErrorBL.dll
+C:\Users\hp\source\repos\CSharpSkillCheck\ProblemOne_LogicErrorBL\obj\Debug\ProblemOne_LogicErrorBL.pdb

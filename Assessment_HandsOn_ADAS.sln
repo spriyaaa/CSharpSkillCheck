@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemThree_CompleteSoluti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemThree_CompleteSolution_BLTests", "ProblemThree_CompleteSolution_BLTests\ProblemThree_CompleteSolution_BLTests.csproj", "{011793AC-0CCF-4CE2-A9B5-555EE715A26D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemOne_LogicErrorBL", "ProblemOne_LogicErrorBL\ProblemOne_LogicErrorBL.csproj", "{8518E002-8A47-4986-B0B4-04EE7AAE2675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{011793AC-0CCF-4CE2-A9B5-555EE715A26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{011793AC-0CCF-4CE2-A9B5-555EE715A26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{011793AC-0CCF-4CE2-A9B5-555EE715A26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8518E002-8A47-4986-B0B4-04EE7AAE2675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8518E002-8A47-4986-B0B4-04EE7AAE2675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8518E002-8A47-4986-B0B4-04EE7AAE2675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8518E002-8A47-4986-B0B4-04EE7AAE2675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
